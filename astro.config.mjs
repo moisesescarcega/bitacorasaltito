@@ -36,7 +36,7 @@ export default defineConfig( /** @type {import('astro').AstroUserConfig} */{
     // port: 3000,         // The port to run the dev server on.
   },
   integrations: [mdx(),
-  // markdoc(), // disabled now due to an issue with Vercel builds
+  markdoc(), // disabled now due to an issue with Vercel builds
   svelte(), tailwind({
     config: {
       applyBaseStyles: false
