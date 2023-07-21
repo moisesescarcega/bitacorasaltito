@@ -1,13 +1,13 @@
 ---
-title: Astro 2.0 - 100% Type-safe MD and MDX Experience
-description: There's a simple secret to building a faster website — just ship less.
+title: Avance del día
+description: Descripción...
 tags:
   - astro
   - jam-stack
   - srr
 author: Fred K Schott
 authorTwitter: FredKSchott
-date: "2023-01-25T10:23:31.210Z"
+date: "2023-07-25T10:23:31.210Z"
 image: https://astro.build/_astro/cover_Z1RYPju.webp
 category: design
 ---

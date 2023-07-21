@@ -3,33 +3,25 @@ import type{ NavItems } from './types'
 export const NAV_ITEMS: NavItems = {
     home: {
         path: '/',
-        title: 'home'
+        title: 'inicio'
     },
     blog: {
         path: '/blog',
-        title: 'blog'
-    },
-    tags: {
-        path: '/tags',
-        title: 'tags'
-    },
-    media: {
-        path: '/media',
-        title: 'media'
+        title: 'bitácora'
     },
     about: {
         path: '/about',
-        title: 'about'
+        title: 'descripción'
     }
 }
 
 export const SITE = {
     // Your site's detail?
-    name: 'Ink',
-    title: 'Astro - Ink',
-    description: 'Crisp, minimal, personal blog theme for Astro',
+    name: 'Bitácora',
+    title: 'Bitácora',
+    description: 'Seguimiento de obra del proyecto Asador en el Saltito',
     url: 'https://astro-ink.vercel.app',
-    githubUrl: 'https://github.com/one-aalam/astro-ink',
+    githubUrl: 'https://github.com/moisesescarcega/bitacorasaltito',
     listDrafts: true,
     image: 'https://raw.githubusercontent.com/one-aalam/astro-ink/main/public/astro-banner.png',
     // YT video channel Id (used in media.astro)
